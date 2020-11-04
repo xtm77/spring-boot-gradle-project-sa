@@ -1,0 +1,11 @@
+spring:
+  name: auth-ajax
+  active:
+    - default
+  datasource:
+
+
+server:
+  port: 8081
+
+
